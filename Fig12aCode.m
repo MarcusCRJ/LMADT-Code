@@ -1,7 +1,4 @@
 %% Code for figure 12a 
-
-% TO BE EXPLAINED AND COMMENTED!!!!!
-
 %Resolution of operating conditions checked.
 Res = 150; %How many B1 points to check.
 

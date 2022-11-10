@@ -1,7 +1,8 @@
 % Code to make figures in appendix, data brought over from RANS simulations
-% utilised for CITE MY PAPER.
+% utilised for "A data-informed analytic model for turbine power prediction 
+% with anisotropic local blockage effects" M.C.R. Juniper & T. Nishino, 
+% DOI: 10.1088/1742-6596/2265/2/022046.
 
-% WORD BETTER
 
 %% PLOT 16
 figure('DefaultAxesFontSize',19,'Position', [10 10 700 600])

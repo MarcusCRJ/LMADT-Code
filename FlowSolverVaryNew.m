@@ -1,7 +1,4 @@
 function [Bn,RBn,Cp,k,Ct,UCube,USquare] = FlowSolverVaryNew(R,Phi,B,a2av,TOL,res)
-%% Let's make a requirement that mass over an area upstream of the turbine
-%% equals one.
-
 %% Average Inflow
 RTrack = cumsum(R);
 MassTrack = cumsum(R.*Phi);
